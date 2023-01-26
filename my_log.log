@@ -1,0 +1,14 @@
+26-01-2023 23:59:33 - main - INFO - <module> - Start program
+26-01-2023 23:59:37 - user_interface - INFO - menu - enter the menu "Personal"
+26-01-2023 23:59:47 - user_interface - INFO - menu_person - Restarting the program
+26-01-2023 23:59:50 - user_interface - INFO - menu_person - exit to main menu
+26-01-2023 23:59:54 - user_interface - INFO - menu - enter the menu "Employees
+27-01-2023 00:00:02 - user_interface - INFO - menu_employee - Restarting the program
+27-01-2023 00:00:06 - user_interface - INFO - menu_employee - exit to main menu
+27-01-2023 00:00:11 - user_interface - INFO - menu - enter the menu "Room base
+27-01-2023 00:00:17 - user_interface - INFO - menu_room - Restarting the program
+27-01-2023 00:00:19 - user_interface - INFO - menu_room - exit to main menu
+27-01-2023 00:00:22 - user_interface - INFO - menu - enter the menu "Booking List
+27-01-2023 00:00:30 - user_interface - INFO - menu_booking - Restarting the program
+27-01-2023 00:00:41 - user_interface - INFO - menu_booking - exit to main menu
+27-01-2023 00:00:43 - user_interface - INFO - menu - program exit
