@@ -1,14 +1,60 @@
-26-01-2023 23:59:33 - main - INFO - <module> - Start program
-26-01-2023 23:59:37 - user_interface - INFO - menu - enter the menu "Personal"
-26-01-2023 23:59:47 - user_interface - INFO - menu_person - Restarting the program
-26-01-2023 23:59:50 - user_interface - INFO - menu_person - exit to main menu
-26-01-2023 23:59:54 - user_interface - INFO - menu - enter the menu "Employees
-27-01-2023 00:00:02 - user_interface - INFO - menu_employee - Restarting the program
-27-01-2023 00:00:06 - user_interface - INFO - menu_employee - exit to main menu
-27-01-2023 00:00:11 - user_interface - INFO - menu - enter the menu "Room base
-27-01-2023 00:00:17 - user_interface - INFO - menu_room - Restarting the program
-27-01-2023 00:00:19 - user_interface - INFO - menu_room - exit to main menu
-27-01-2023 00:00:22 - user_interface - INFO - menu - enter the menu "Booking List
-27-01-2023 00:00:30 - user_interface - INFO - menu_booking - Restarting the program
-27-01-2023 00:00:41 - user_interface - INFO - menu_booking - exit to main menu
-27-01-2023 00:00:43 - user_interface - INFO - menu - program exit
+30-01-2023 22:55:49 - main - INFO - <module> - Start program
+30-01-2023 22:55:52 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 22:55:56 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 22:56:37 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 1
+30-01-2023 22:56:43 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 22:57:36 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 2
+30-01-2023 22:57:39 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 22:58:26 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 3
+30-01-2023 22:58:50 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:00:18 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 4
+30-01-2023 23:00:33 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:01:45 - person - INFO - person_change_info - Changing a person in 'person_base.csv': ID 4
+30-01-2023 23:02:02 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:03:50 - main - INFO - <module> - Start program
+30-01-2023 23:03:52 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:03:54 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:04:23 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 5
+30-01-2023 23:04:25 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:05:04 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 6
+30-01-2023 23:05:06 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:06:44 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 7
+30-01-2023 23:07:05 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:07:50 - person - INFO - person_change_info - Changing a person in 'person_base.csv': ID 7
+30-01-2023 23:08:06 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:08:49 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 8
+30-01-2023 23:08:55 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:09:11 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:09:34 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 9
+30-01-2023 23:09:41 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:11:26 - main - INFO - <module> - Start program
+30-01-2023 23:11:28 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:11:33 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:12:34 - main - INFO - <module> - Start program
+30-01-2023 23:12:40 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:12:57 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:20:18 - main - INFO - <module> - Start program
+30-01-2023 23:20:20 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:20:21 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:20:40 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 10
+30-01-2023 23:20:55 - user_interface - INFO - menu_person - exit to main menu
+30-01-2023 23:21:24 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:21:31 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:23:09 - user_interface - INFO - menu_person - Restarting the program
+30-01-2023 23:23:15 - main - INFO - <module> - Start program
+30-01-2023 23:23:18 - user_interface - INFO - menu - enter the menu "Personal"
+30-01-2023 23:23:22 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:23:41 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 11
+30-01-2023 23:23:54 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:24:01 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:24:15 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 12
+30-01-2023 23:24:19 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:24:46 - person - INFO - person_change_info - Changing a person in 'person_base.csv': ID 1
+30-01-2023 23:26:50 - user_interface - INFO - menu_person - Enter New Person
+30-01-2023 23:27:06 - person - INFO - new_person_input - Adding a new person to 'person_base.csv': ID 13
+30-01-2023 23:27:13 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:27:21 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:27:36 - user_interface - INFO - menu_person - Delete Person
+30-01-2023 23:27:39 - user_interface - INFO - menu_person - Change Person
+30-01-2023 23:28:24 - person - INFO - person_change_info - Changing a person in 'person_base.csv': ID 2
+30-01-2023 23:28:50 - user_interface - INFO - menu_person - Delete Person

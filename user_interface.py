@@ -79,13 +79,14 @@ def menu_person():
         match num_type:
             case "1":
                 logging.info('Enter New Person')
-                pass
+                pax.new_person_input()
             case "2":
+                pax.delete_person()
                 logging.info('Delete Person')
                 pass
             case "3":
                 logging.info('Change Person')
-                pass
+                pax.person_change_info()
             case "4":
                 logging.info('exit to main menu')
                 break
